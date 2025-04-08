@@ -438,7 +438,7 @@ impl DeviceInfo {
                 gpio_offset: GPIO_OFFSET_RP1,
                 gpio_lines: GPIO_LINES_RP1,
                 gpio_interface: GpioInterface::Rp1,
-                pwm_chip: 2,
+                pwm_chip: 0,
                 pwm_channels: 4,
             }),
         }
